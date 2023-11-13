@@ -25,7 +25,7 @@
 |2|智谱华章|[清言](https://chatglm.cn/)|北京|通用|✔|有APP，开源小模型[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)和[ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)|
 |3|百川智能|[百川](https://chat.baichuan-ai.com/)|北京|通用|✔|开源小模型[baichuan-7B](https://github.com/baichuan-inc/baichuan-7B)和[Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B)，[baichuan-2](https://github.com/baichuan-inc/Baichuan2)|
 |4|达观数据|[曹植](http://www.datagrand.com/products/aigc/)|上海|工业|✔|[试用需账号](https://aigc.datagrand.com/) |
-|5|上海人工智能实验室|[书生](https://intern-ai.org.cn/) |上海|通用|✔|开源小模型[书生·浦语](https://github.com/InternLM/InternLM)，[OpenMEDLab浦医](https://github.com/openmedlab)|
+|5|上海人工智能实验室|[书生](https://intern-ai.org.cn/) |上海|通用|✔|开源小模型[书生·浦语](https://github.com/InternLM/InternLM)，[OpenMEDLab浦医](https://github.com/openmedlab)，[STU-Net](https://github.com/uni-medical/STU-Net.git)|
 |6|科大讯飞|[星火](https://xinghuo.xfyun.cn)|安徽合肥|通用|✔|[试用需账号](https://xinghuo.xfyun.cn/desk),有APP |
 |7|深度求索|[Deepseek Coder](https://github.com/deepseek-ai/DeepSeek-Coder)|浙江杭州|代码|✔||
 |8|商汤科技| [日日新](https://techday.sensetime.com/)| 上海|通用|✔||
